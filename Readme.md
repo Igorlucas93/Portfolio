@@ -1,7 +1,9 @@
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio 
 
-![image](https://github.com/Igorlucas93/portfolio/blob/main/assets/igor-perfil.jpg)
+Olá, Bem vindo ao meu projeto de portfólio.
+
+![image](assets\primeiro-projeto.png)
 
 ## Ferramentas utilizadas:
 
