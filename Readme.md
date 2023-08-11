@@ -3,7 +3,7 @@
 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](assets\primeiro-projeto.png)
+![image](./assets/primeiro-projeto.png)
 
 ## Ferramentas utilizadas:
 
